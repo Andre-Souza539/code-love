@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Oie Ana <link href="/">Next.js!</link>
+          Oie Ana <link href="#">Next.js!</link>
         </h1>
 
         <p className={styles.description}>
